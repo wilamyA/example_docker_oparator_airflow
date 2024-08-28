@@ -1,0 +1,1 @@
+/home/glue_user/spark/sbin/spark-env.sh & /bin/sh
